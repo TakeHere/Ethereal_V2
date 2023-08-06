@@ -1,6 +1,9 @@
-# EtherealFx Game Framework
-Welcome to EtherealFx game framework ! A javafx game framework that uses javafx as it's graphic renderer.
-❗ It's the fourth version of Ethereal, all ideas are appreciated !
+# EtherealFX Game Framework
+
+⚠️ EtherealFx is a Rework of the EtherealV1 game engine on a new graphic renderer, JavaFX
+
+Welcome to EtherealFx game framework ! A Javafx game framework that uses **JavaFX** as it's graphic renderer.\
+❗ It's the version 1.4 of Ethereal, all ideas are appreciated !
 
 ## Features: 
 Two objects are currently there:
